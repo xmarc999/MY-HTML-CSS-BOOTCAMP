@@ -49,3 +49,6 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
+
+# My Test File
+test_git_ignore.txt
